@@ -1,4 +1,4 @@
-// C++ program for visualization of bubble sort
+// C++ program for visualization of bubble sort yay
 
 #include "graphics.h"
 #include <bits/stdc++.h>
